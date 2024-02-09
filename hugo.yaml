@@ -1,6 +1,6 @@
 baseURL: "https://jesusgarciaramirez.github.io/"
 languageCode: en-us
-title: Jesus Garcia   
+title: Jesus Garcia Ramirez
 theme: ["PaperMod"]
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -32,9 +32,9 @@ menu:
       name: Publications
       url: /publications/
       weight: 20
-    - identifier: CV
-      name: CV 
-      url: /cv/
+    - identifier: Resume
+      name: Resume
+      url: https://jesusgarciaramirez.github.io/MyCV/
       weight: 30
     
 params:
