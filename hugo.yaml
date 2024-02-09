@@ -1,4 +1,4 @@
-baseURL: "https://jesusgarciaramirez.github.io"
+baseURL: "https://jesusgarciaramirez.github.io/"
 languageCode: en-us
 title: Jesus Garcia   
 theme: ["PaperMod"]
@@ -34,7 +34,7 @@ menu:
       weight: 20
     - identifier: CV
       name: CV 
-      url: /CV/
+      url: /cv/
       weight: 30
     
 params:
